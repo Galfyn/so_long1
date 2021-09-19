@@ -1,10 +1,10 @@
 NAME = so_long
 
-SRC = so_long.c	ft_hand_map.c	error.c	ft_read_map.c	ft_get_image.c	ft_move.c
+SRC = so_long.c	error.c	ft_read_map.c	ft_get_image.c	ft_move.c
 
 OBJ = $(patsubst %.c,%.o,$(SRC))
 
-#CFLAGS = -Wall -Wextra -Werror
+CFLAGS = -Wall -Wextra -Werror
 
 all : mlx libft $(NAME)
 

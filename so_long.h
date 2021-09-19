@@ -44,7 +44,6 @@ typedef struct s_game{
 	t_xmp	F;
 }t_game;
 
-void	ft_hand_map(int argc, char **argv, t_game *game);
 void	error(char *msg);
 void	ft_read_map(char **argv, t_game *game);
 int		ft_get_image(t_game *game);
