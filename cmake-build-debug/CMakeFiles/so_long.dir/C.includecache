@@ -14,11 +14,27 @@ unistd.h
 fcntl.h
 -
 
+/Users/galfyn/my_projects/so_long/error.c
+so_long.h
+/Users/galfyn/my_projects/so_long/so_long.h
+
+/Users/galfyn/my_projects/so_long/ft_get_image.c
+so_long.h
+/Users/galfyn/my_projects/so_long/so_long.h
+
 /Users/galfyn/my_projects/so_long/ft_move.c
 so_long.h
 /Users/galfyn/my_projects/so_long/so_long.h
 
+/Users/galfyn/my_projects/so_long/ft_read_map.c
+so_long.h
+/Users/galfyn/my_projects/so_long/so_long.h
+
 /Users/galfyn/my_projects/so_long/mlx/mlx.h
+
+/Users/galfyn/my_projects/so_long/so_long.c
+so_long.h
+/Users/galfyn/my_projects/so_long/so_long.h
 
 /Users/galfyn/my_projects/so_long/so_long.h
 Libft/libft.h

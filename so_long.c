@@ -6,7 +6,7 @@
 /*   By: galfyn <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/19 06:37:43 by galfyn            #+#    #+#             */
-/*   Updated: 2021/09/19 06:39:20 by galfyn           ###   ########.fr       */
+/*   Updated: 2021/09/19 07:52:01 by galfyn           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,6 +70,5 @@ int	main(int argc, char **argv)
 			(game.height * 32), "so_long");
 	ft_get_image(&game);
 	mlx_key_hook(game.vars.win, key_hook, &game);
-	mlx_loop_hook(game.vars.mlx, ft_get_image, &game);
 	mlx_loop(game.vars.mlx);
 }

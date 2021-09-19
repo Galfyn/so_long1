@@ -11,11 +11,6 @@ CMakeFiles/so_long.dir/ft_get_image.c.o: \
  ../ft_get_image.c \
  ../mlx/mlx.h \
  ../so_long.h
-CMakeFiles/so_long.dir/ft_hand_map.c.o: \
- ../Libft/libft.h \
- ../ft_hand_map.c \
- ../mlx/mlx.h \
- ../so_long.h
 CMakeFiles/so_long.dir/ft_move.c.o: \
  ../Libft/libft.h \
  ../ft_move.c \
