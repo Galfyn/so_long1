@@ -1,0 +1,5 @@
+.gitignore
+cmake-build-debug
+.*
+CMakeLists.txt
+

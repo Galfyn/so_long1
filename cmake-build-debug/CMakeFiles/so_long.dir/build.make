@@ -66,659 +66,9 @@ include CMakeFiles/so_long.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/so_long.dir/flags.make
 
-CMakeFiles/so_long.dir/Libft/ft_atoi.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_atoi.c.o: ../Libft/ft_atoi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/so_long.dir/Libft/ft_atoi.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_atoi.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_atoi.c
-
-CMakeFiles/so_long.dir/Libft/ft_atoi.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_atoi.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_atoi.c > CMakeFiles/so_long.dir/Libft/ft_atoi.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_atoi.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_atoi.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_atoi.c -o CMakeFiles/so_long.dir/Libft/ft_atoi.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_bzero.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_bzero.c.o: ../Libft/ft_bzero.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/so_long.dir/Libft/ft_bzero.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_bzero.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_bzero.c
-
-CMakeFiles/so_long.dir/Libft/ft_bzero.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_bzero.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_bzero.c > CMakeFiles/so_long.dir/Libft/ft_bzero.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_bzero.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_bzero.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_bzero.c -o CMakeFiles/so_long.dir/Libft/ft_bzero.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_calloc.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_calloc.c.o: ../Libft/ft_calloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/so_long.dir/Libft/ft_calloc.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_calloc.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_calloc.c
-
-CMakeFiles/so_long.dir/Libft/ft_calloc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_calloc.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_calloc.c > CMakeFiles/so_long.dir/Libft/ft_calloc.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_calloc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_calloc.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_calloc.c -o CMakeFiles/so_long.dir/Libft/ft_calloc.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o: ../Libft/ft_isalnum.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isalnum.c
-
-CMakeFiles/so_long.dir/Libft/ft_isalnum.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isalnum.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isalnum.c > CMakeFiles/so_long.dir/Libft/ft_isalnum.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isalnum.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isalnum.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isalnum.c -o CMakeFiles/so_long.dir/Libft/ft_isalnum.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o: ../Libft/ft_isalpha.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isalpha.c
-
-CMakeFiles/so_long.dir/Libft/ft_isalpha.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isalpha.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isalpha.c > CMakeFiles/so_long.dir/Libft/ft_isalpha.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isalpha.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isalpha.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isalpha.c -o CMakeFiles/so_long.dir/Libft/ft_isalpha.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isascii.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isascii.c.o: ../Libft/ft_isascii.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/so_long.dir/Libft/ft_isascii.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isascii.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isascii.c
-
-CMakeFiles/so_long.dir/Libft/ft_isascii.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isascii.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isascii.c > CMakeFiles/so_long.dir/Libft/ft_isascii.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isascii.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isascii.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isascii.c -o CMakeFiles/so_long.dir/Libft/ft_isascii.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o: ../Libft/ft_isdigit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isdigit.c
-
-CMakeFiles/so_long.dir/Libft/ft_isdigit.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isdigit.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isdigit.c > CMakeFiles/so_long.dir/Libft/ft_isdigit.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isdigit.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isdigit.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isdigit.c -o CMakeFiles/so_long.dir/Libft/ft_isdigit.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_islower.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_islower.c.o: ../Libft/ft_islower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/so_long.dir/Libft/ft_islower.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_islower.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_islower.c
-
-CMakeFiles/so_long.dir/Libft/ft_islower.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_islower.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_islower.c > CMakeFiles/so_long.dir/Libft/ft_islower.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_islower.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_islower.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_islower.c -o CMakeFiles/so_long.dir/Libft/ft_islower.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o: ../Libft/ft_isnotprint.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isnotprint.c
-
-CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isnotprint.c > CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isnotprint.c -o CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isprint.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isprint.c.o: ../Libft/ft_isprint.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/so_long.dir/Libft/ft_isprint.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isprint.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isprint.c
-
-CMakeFiles/so_long.dir/Libft/ft_isprint.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isprint.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isprint.c > CMakeFiles/so_long.dir/Libft/ft_isprint.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isprint.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isprint.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isprint.c -o CMakeFiles/so_long.dir/Libft/ft_isprint.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isspace.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isspace.c.o: ../Libft/ft_isspace.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/so_long.dir/Libft/ft_isspace.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isspace.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isspace.c
-
-CMakeFiles/so_long.dir/Libft/ft_isspace.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isspace.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isspace.c > CMakeFiles/so_long.dir/Libft/ft_isspace.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isspace.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isspace.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isspace.c -o CMakeFiles/so_long.dir/Libft/ft_isspace.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_isupper.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_isupper.c.o: ../Libft/ft_isupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/so_long.dir/Libft/ft_isupper.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_isupper.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_isupper.c
-
-CMakeFiles/so_long.dir/Libft/ft_isupper.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_isupper.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_isupper.c > CMakeFiles/so_long.dir/Libft/ft_isupper.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_isupper.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_isupper.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_isupper.c -o CMakeFiles/so_long.dir/Libft/ft_isupper.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_itoa.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_itoa.c.o: ../Libft/ft_itoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/so_long.dir/Libft/ft_itoa.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_itoa.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_itoa.c
-
-CMakeFiles/so_long.dir/Libft/ft_itoa.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_itoa.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_itoa.c > CMakeFiles/so_long.dir/Libft/ft_itoa.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_itoa.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_itoa.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_itoa.c -o CMakeFiles/so_long.dir/Libft/ft_itoa.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o: ../Libft/ft_lstadd_back.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_back.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_back.c > CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_back.c -o CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o: ../Libft/ft_lstadd_front.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_front.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_front.c > CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstadd_front.c -o CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o: ../Libft/ft_lstclear.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstclear.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstclear.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstclear.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstclear.c > CMakeFiles/so_long.dir/Libft/ft_lstclear.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstclear.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstclear.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstclear.c -o CMakeFiles/so_long.dir/Libft/ft_lstclear.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o: ../Libft/ft_lstdelone.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstdelone.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstdelone.c > CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstdelone.c -o CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o: ../Libft/ft_lstiter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstiter.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstiter.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstiter.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstiter.c > CMakeFiles/so_long.dir/Libft/ft_lstiter.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstiter.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstiter.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstiter.c -o CMakeFiles/so_long.dir/Libft/ft_lstiter.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o: ../Libft/ft_lstlast.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstlast.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstlast.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstlast.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstlast.c > CMakeFiles/so_long.dir/Libft/ft_lstlast.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstlast.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstlast.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstlast.c -o CMakeFiles/so_long.dir/Libft/ft_lstlast.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o: ../Libft/ft_lstmap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstmap.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstmap.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstmap.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstmap.c > CMakeFiles/so_long.dir/Libft/ft_lstmap.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstmap.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstmap.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstmap.c -o CMakeFiles/so_long.dir/Libft/ft_lstmap.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o: ../Libft/ft_lstnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstnew.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstnew.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstnew.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstnew.c > CMakeFiles/so_long.dir/Libft/ft_lstnew.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstnew.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstnew.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstnew.c -o CMakeFiles/so_long.dir/Libft/ft_lstnew.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o: ../Libft/ft_lstsize.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_lstsize.c
-
-CMakeFiles/so_long.dir/Libft/ft_lstsize.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_lstsize.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_lstsize.c > CMakeFiles/so_long.dir/Libft/ft_lstsize.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_lstsize.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_lstsize.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_lstsize.c -o CMakeFiles/so_long.dir/Libft/ft_lstsize.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o: ../Libft/ft_memccpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memccpy.c
-
-CMakeFiles/so_long.dir/Libft/ft_memccpy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memccpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memccpy.c > CMakeFiles/so_long.dir/Libft/ft_memccpy.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memccpy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memccpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memccpy.c -o CMakeFiles/so_long.dir/Libft/ft_memccpy.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memchr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memchr.c.o: ../Libft/ft_memchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/so_long.dir/Libft/ft_memchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memchr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memchr.c
-
-CMakeFiles/so_long.dir/Libft/ft_memchr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memchr.c > CMakeFiles/so_long.dir/Libft/ft_memchr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memchr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memchr.c -o CMakeFiles/so_long.dir/Libft/ft_memchr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o: ../Libft/ft_memcmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memcmp.c
-
-CMakeFiles/so_long.dir/Libft/ft_memcmp.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memcmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memcmp.c > CMakeFiles/so_long.dir/Libft/ft_memcmp.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memcmp.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memcmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memcmp.c -o CMakeFiles/so_long.dir/Libft/ft_memcmp.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o: ../Libft/ft_memcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memcpy.c
-
-CMakeFiles/so_long.dir/Libft/ft_memcpy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memcpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memcpy.c > CMakeFiles/so_long.dir/Libft/ft_memcpy.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memcpy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memcpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memcpy.c -o CMakeFiles/so_long.dir/Libft/ft_memcpy.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memmove.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memmove.c.o: ../Libft/ft_memmove.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/so_long.dir/Libft/ft_memmove.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memmove.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memmove.c
-
-CMakeFiles/so_long.dir/Libft/ft_memmove.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memmove.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memmove.c > CMakeFiles/so_long.dir/Libft/ft_memmove.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memmove.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memmove.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memmove.c -o CMakeFiles/so_long.dir/Libft/ft_memmove.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o: ../Libft/ft_memrchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memrchr.c
-
-CMakeFiles/so_long.dir/Libft/ft_memrchr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memrchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memrchr.c > CMakeFiles/so_long.dir/Libft/ft_memrchr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memrchr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memrchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memrchr.c -o CMakeFiles/so_long.dir/Libft/ft_memrchr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_memset.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_memset.c.o: ../Libft/ft_memset.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/so_long.dir/Libft/ft_memset.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_memset.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_memset.c
-
-CMakeFiles/so_long.dir/Libft/ft_memset.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_memset.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_memset.c > CMakeFiles/so_long.dir/Libft/ft_memset.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_memset.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_memset.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_memset.c -o CMakeFiles/so_long.dir/Libft/ft_memset.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o: ../Libft/ft_putchar_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_putchar_fd.c
-
-CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_putchar_fd.c > CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_putchar_fd.c -o CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o: ../Libft/ft_putendl_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_putendl_fd.c
-
-CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_putendl_fd.c > CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_putendl_fd.c -o CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o: ../Libft/ft_putnbr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_putnbr_fd.c
-
-CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_putnbr_fd.c > CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_putnbr_fd.c -o CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o: ../Libft/ft_putstr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_putstr_fd.c
-
-CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_putstr_fd.c > CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_putstr_fd.c -o CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_split.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_split.c.o: ../Libft/ft_split.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/so_long.dir/Libft/ft_split.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_split.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_split.c
-
-CMakeFiles/so_long.dir/Libft/ft_split.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_split.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_split.c > CMakeFiles/so_long.dir/Libft/ft_split.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_split.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_split.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_split.c -o CMakeFiles/so_long.dir/Libft/ft_split.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strchr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strchr.c.o: ../Libft/ft_strchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/so_long.dir/Libft/ft_strchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strchr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strchr.c
-
-CMakeFiles/so_long.dir/Libft/ft_strchr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strchr.c > CMakeFiles/so_long.dir/Libft/ft_strchr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strchr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strchr.c -o CMakeFiles/so_long.dir/Libft/ft_strchr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strdup.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strdup.c.o: ../Libft/ft_strdup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/so_long.dir/Libft/ft_strdup.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strdup.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strdup.c
-
-CMakeFiles/so_long.dir/Libft/ft_strdup.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strdup.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strdup.c > CMakeFiles/so_long.dir/Libft/ft_strdup.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strdup.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strdup.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strdup.c -o CMakeFiles/so_long.dir/Libft/ft_strdup.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o: ../Libft/ft_strjoin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strjoin.c
-
-CMakeFiles/so_long.dir/Libft/ft_strjoin.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strjoin.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strjoin.c > CMakeFiles/so_long.dir/Libft/ft_strjoin.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strjoin.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strjoin.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strjoin.c -o CMakeFiles/so_long.dir/Libft/ft_strjoin.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o: ../Libft/ft_strlcat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strlcat.c
-
-CMakeFiles/so_long.dir/Libft/ft_strlcat.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strlcat.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strlcat.c > CMakeFiles/so_long.dir/Libft/ft_strlcat.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strlcat.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strlcat.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strlcat.c -o CMakeFiles/so_long.dir/Libft/ft_strlcat.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o: ../Libft/ft_strlcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strlcpy.c
-
-CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strlcpy.c > CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strlcpy.c -o CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strlen.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strlen.c.o: ../Libft/ft_strlen.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/so_long.dir/Libft/ft_strlen.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strlen.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strlen.c
-
-CMakeFiles/so_long.dir/Libft/ft_strlen.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strlen.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strlen.c > CMakeFiles/so_long.dir/Libft/ft_strlen.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strlen.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strlen.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strlen.c -o CMakeFiles/so_long.dir/Libft/ft_strlen.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o: ../Libft/ft_strmapi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strmapi.c
-
-CMakeFiles/so_long.dir/Libft/ft_strmapi.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strmapi.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strmapi.c > CMakeFiles/so_long.dir/Libft/ft_strmapi.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strmapi.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strmapi.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strmapi.c -o CMakeFiles/so_long.dir/Libft/ft_strmapi.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o: ../Libft/ft_strncmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strncmp.c
-
-CMakeFiles/so_long.dir/Libft/ft_strncmp.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strncmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strncmp.c > CMakeFiles/so_long.dir/Libft/ft_strncmp.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strncmp.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strncmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strncmp.c -o CMakeFiles/so_long.dir/Libft/ft_strncmp.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o: ../Libft/ft_strnstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strnstr.c
-
-CMakeFiles/so_long.dir/Libft/ft_strnstr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strnstr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strnstr.c > CMakeFiles/so_long.dir/Libft/ft_strnstr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strnstr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strnstr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strnstr.c -o CMakeFiles/so_long.dir/Libft/ft_strnstr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o: ../Libft/ft_strrchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strrchr.c
-
-CMakeFiles/so_long.dir/Libft/ft_strrchr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strrchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strrchr.c > CMakeFiles/so_long.dir/Libft/ft_strrchr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strrchr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strrchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strrchr.c -o CMakeFiles/so_long.dir/Libft/ft_strrchr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o: ../Libft/ft_strtrim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_strtrim.c
-
-CMakeFiles/so_long.dir/Libft/ft_strtrim.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_strtrim.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_strtrim.c > CMakeFiles/so_long.dir/Libft/ft_strtrim.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_strtrim.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_strtrim.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_strtrim.c -o CMakeFiles/so_long.dir/Libft/ft_strtrim.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_substr.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_substr.c.o: ../Libft/ft_substr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/so_long.dir/Libft/ft_substr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_substr.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_substr.c
-
-CMakeFiles/so_long.dir/Libft/ft_substr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_substr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_substr.c > CMakeFiles/so_long.dir/Libft/ft_substr.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_substr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_substr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_substr.c -o CMakeFiles/so_long.dir/Libft/ft_substr.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_tolower.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_tolower.c.o: ../Libft/ft_tolower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/so_long.dir/Libft/ft_tolower.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_tolower.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_tolower.c
-
-CMakeFiles/so_long.dir/Libft/ft_tolower.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_tolower.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_tolower.c > CMakeFiles/so_long.dir/Libft/ft_tolower.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_tolower.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_tolower.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_tolower.c -o CMakeFiles/so_long.dir/Libft/ft_tolower.c.s
-
-CMakeFiles/so_long.dir/Libft/ft_toupper.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/ft_toupper.c.o: ../Libft/ft_toupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/so_long.dir/Libft/ft_toupper.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/ft_toupper.c.o -c /Users/galfyn/my_projects/so_long/Libft/ft_toupper.c
-
-CMakeFiles/so_long.dir/Libft/ft_toupper.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/ft_toupper.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/ft_toupper.c > CMakeFiles/so_long.dir/Libft/ft_toupper.c.i
-
-CMakeFiles/so_long.dir/Libft/ft_toupper.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/ft_toupper.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/ft_toupper.c -o CMakeFiles/so_long.dir/Libft/ft_toupper.c.s
-
-CMakeFiles/so_long.dir/Libft/get_next_line.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/Libft/get_next_line.c.o: ../Libft/get_next_line.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/so_long.dir/Libft/get_next_line.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/Libft/get_next_line.c.o -c /Users/galfyn/my_projects/so_long/Libft/get_next_line.c
-
-CMakeFiles/so_long.dir/Libft/get_next_line.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/Libft/get_next_line.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/Libft/get_next_line.c > CMakeFiles/so_long.dir/Libft/get_next_line.c.i
-
-CMakeFiles/so_long.dir/Libft/get_next_line.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/Libft/get_next_line.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/Libft/get_next_line.c -o CMakeFiles/so_long.dir/Libft/get_next_line.c.s
-
-CMakeFiles/so_long.dir/checkerror.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/checkerror.c.o: ../checkerror.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/so_long.dir/checkerror.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/checkerror.c.o -c /Users/galfyn/my_projects/so_long/checkerror.c
-
-CMakeFiles/so_long.dir/checkerror.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/checkerror.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/checkerror.c > CMakeFiles/so_long.dir/checkerror.c.i
-
-CMakeFiles/so_long.dir/checkerror.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/checkerror.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/checkerror.c -o CMakeFiles/so_long.dir/checkerror.c.s
-
 CMakeFiles/so_long.dir/error.c.o: CMakeFiles/so_long.dir/flags.make
 CMakeFiles/so_long.dir/error.c.o: ../error.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/so_long.dir/error.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/so_long.dir/error.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/error.c.o -c /Users/galfyn/my_projects/so_long/error.c
 
 CMakeFiles/so_long.dir/error.c.i: cmake_force
@@ -729,48 +79,61 @@ CMakeFiles/so_long.dir/error.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/error.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/error.c -o CMakeFiles/so_long.dir/error.c.s
 
-CMakeFiles/so_long.dir/get_image.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/get_image.c.o: ../get_image.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/so_long.dir/get_image.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/get_image.c.o -c /Users/galfyn/my_projects/so_long/get_image.c
+CMakeFiles/so_long.dir/ft_get_image.c.o: CMakeFiles/so_long.dir/flags.make
+CMakeFiles/so_long.dir/ft_get_image.c.o: ../ft_get_image.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/so_long.dir/ft_get_image.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/ft_get_image.c.o -c /Users/galfyn/my_projects/so_long/ft_get_image.c
 
-CMakeFiles/so_long.dir/get_image.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/get_image.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/get_image.c > CMakeFiles/so_long.dir/get_image.c.i
+CMakeFiles/so_long.dir/ft_get_image.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/ft_get_image.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/ft_get_image.c > CMakeFiles/so_long.dir/ft_get_image.c.i
 
-CMakeFiles/so_long.dir/get_image.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/get_image.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/get_image.c -o CMakeFiles/so_long.dir/get_image.c.s
+CMakeFiles/so_long.dir/ft_get_image.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/ft_get_image.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/ft_get_image.c -o CMakeFiles/so_long.dir/ft_get_image.c.s
 
-CMakeFiles/so_long.dir/hand_map.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/hand_map.c.o: ../hand_map.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/so_long.dir/hand_map.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/hand_map.c.o -c /Users/galfyn/my_projects/so_long/hand_map.c
+CMakeFiles/so_long.dir/ft_hand_map.c.o: CMakeFiles/so_long.dir/flags.make
+CMakeFiles/so_long.dir/ft_hand_map.c.o: ../ft_hand_map.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/so_long.dir/ft_hand_map.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/ft_hand_map.c.o -c /Users/galfyn/my_projects/so_long/ft_hand_map.c
 
-CMakeFiles/so_long.dir/hand_map.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/hand_map.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/hand_map.c > CMakeFiles/so_long.dir/hand_map.c.i
+CMakeFiles/so_long.dir/ft_hand_map.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/ft_hand_map.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/ft_hand_map.c > CMakeFiles/so_long.dir/ft_hand_map.c.i
 
-CMakeFiles/so_long.dir/hand_map.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/hand_map.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/hand_map.c -o CMakeFiles/so_long.dir/hand_map.c.s
+CMakeFiles/so_long.dir/ft_hand_map.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/ft_hand_map.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/ft_hand_map.c -o CMakeFiles/so_long.dir/ft_hand_map.c.s
 
-CMakeFiles/so_long.dir/read_map.c.o: CMakeFiles/so_long.dir/flags.make
-CMakeFiles/so_long.dir/read_map.c.o: ../read_map.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/so_long.dir/read_map.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/read_map.c.o -c /Users/galfyn/my_projects/so_long/read_map.c
+CMakeFiles/so_long.dir/ft_move.c.o: CMakeFiles/so_long.dir/flags.make
+CMakeFiles/so_long.dir/ft_move.c.o: ../ft_move.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/so_long.dir/ft_move.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/ft_move.c.o -c /Users/galfyn/my_projects/so_long/ft_move.c
 
-CMakeFiles/so_long.dir/read_map.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/read_map.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/read_map.c > CMakeFiles/so_long.dir/read_map.c.i
+CMakeFiles/so_long.dir/ft_move.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/ft_move.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/ft_move.c > CMakeFiles/so_long.dir/ft_move.c.i
 
-CMakeFiles/so_long.dir/read_map.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/read_map.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/read_map.c -o CMakeFiles/so_long.dir/read_map.c.s
+CMakeFiles/so_long.dir/ft_move.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/ft_move.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/ft_move.c -o CMakeFiles/so_long.dir/ft_move.c.s
+
+CMakeFiles/so_long.dir/ft_read_map.c.o: CMakeFiles/so_long.dir/flags.make
+CMakeFiles/so_long.dir/ft_read_map.c.o: ../ft_read_map.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/so_long.dir/ft_read_map.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/ft_read_map.c.o -c /Users/galfyn/my_projects/so_long/ft_read_map.c
+
+CMakeFiles/so_long.dir/ft_read_map.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/so_long.dir/ft_read_map.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/galfyn/my_projects/so_long/ft_read_map.c > CMakeFiles/so_long.dir/ft_read_map.c.i
+
+CMakeFiles/so_long.dir/ft_read_map.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/so_long.dir/ft_read_map.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/galfyn/my_projects/so_long/ft_read_map.c -o CMakeFiles/so_long.dir/ft_read_map.c.s
 
 CMakeFiles/so_long.dir/so_long.c.o: CMakeFiles/so_long.dir/flags.make
 CMakeFiles/so_long.dir/so_long.c.o: ../so_long.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/so_long.dir/so_long.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/so_long.dir/so_long.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/so_long.dir/so_long.c.o -c /Users/galfyn/my_projects/so_long/so_long.c
 
 CMakeFiles/so_long.dir/so_long.c.i: cmake_force
@@ -783,123 +146,25 @@ CMakeFiles/so_long.dir/so_long.c.s: cmake_force
 
 # Object files for target so_long
 so_long_OBJECTS = \
-"CMakeFiles/so_long.dir/Libft/ft_atoi.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_bzero.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_calloc.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isascii.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_islower.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isprint.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isspace.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_isupper.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_itoa.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memchr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memmove.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_memset.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_split.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strchr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strdup.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strlen.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_substr.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_tolower.c.o" \
-"CMakeFiles/so_long.dir/Libft/ft_toupper.c.o" \
-"CMakeFiles/so_long.dir/Libft/get_next_line.c.o" \
-"CMakeFiles/so_long.dir/checkerror.c.o" \
 "CMakeFiles/so_long.dir/error.c.o" \
-"CMakeFiles/so_long.dir/get_image.c.o" \
-"CMakeFiles/so_long.dir/hand_map.c.o" \
-"CMakeFiles/so_long.dir/read_map.c.o" \
+"CMakeFiles/so_long.dir/ft_get_image.c.o" \
+"CMakeFiles/so_long.dir/ft_hand_map.c.o" \
+"CMakeFiles/so_long.dir/ft_move.c.o" \
+"CMakeFiles/so_long.dir/ft_read_map.c.o" \
 "CMakeFiles/so_long.dir/so_long.c.o"
 
 # External object files for target so_long
 so_long_EXTERNAL_OBJECTS =
 
-so_long: CMakeFiles/so_long.dir/Libft/ft_atoi.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_bzero.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_calloc.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isalnum.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isalpha.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isascii.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isdigit.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_islower.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isnotprint.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isprint.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isspace.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_isupper.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_itoa.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstadd_back.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstadd_front.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstclear.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstdelone.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstiter.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstlast.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstmap.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstnew.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_lstsize.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memccpy.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memchr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memcmp.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memcpy.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memmove.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memrchr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_memset.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_putchar_fd.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_putendl_fd.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_putnbr_fd.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_putstr_fd.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_split.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strchr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strdup.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strjoin.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strlcat.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strlcpy.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strlen.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strmapi.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strncmp.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strnstr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strrchr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_strtrim.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_substr.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_tolower.c.o
-so_long: CMakeFiles/so_long.dir/Libft/ft_toupper.c.o
-so_long: CMakeFiles/so_long.dir/Libft/get_next_line.c.o
-so_long: CMakeFiles/so_long.dir/checkerror.c.o
 so_long: CMakeFiles/so_long.dir/error.c.o
-so_long: CMakeFiles/so_long.dir/get_image.c.o
-so_long: CMakeFiles/so_long.dir/hand_map.c.o
-so_long: CMakeFiles/so_long.dir/read_map.c.o
+so_long: CMakeFiles/so_long.dir/ft_get_image.c.o
+so_long: CMakeFiles/so_long.dir/ft_hand_map.c.o
+so_long: CMakeFiles/so_long.dir/ft_move.c.o
+so_long: CMakeFiles/so_long.dir/ft_read_map.c.o
 so_long: CMakeFiles/so_long.dir/so_long.c.o
 so_long: CMakeFiles/so_long.dir/build.make
 so_long: CMakeFiles/so_long.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking C executable so_long"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/galfyn/my_projects/so_long/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable so_long"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/so_long.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -3,6 +3,8 @@ project(so_long C)
 
 set(CMAKE_C_STANDARD 99)
 
-file(GLOB SRCS *.c ./Libft/*.c)
+set(CMAKE_C_FLAGS "-L../libft -lft -L../mlx -lmlx -framework OpenGL -framework AppKit")
+
+file(GLOB SRCS *.c)
 
 add_executable(so_long ${SRCS})

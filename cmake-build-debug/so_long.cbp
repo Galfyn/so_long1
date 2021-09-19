@@ -78,166 +78,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_atoi.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_bzero.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_calloc.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isalnum.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isalpha.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isascii.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isdigit.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_islower.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isnotprint.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isprint.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isspace.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_isupper.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_itoa.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstadd_back.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstadd_front.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstclear.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstdelone.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstiter.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstlast.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstmap.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstnew.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_lstsize.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memccpy.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memchr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memcmp.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memcpy.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memmove.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memrchr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_memset.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_putchar_fd.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_putendl_fd.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_putnbr_fd.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_putstr_fd.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_split.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strchr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strdup.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strjoin.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strlcat.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strlcpy.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strlen.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strmapi.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strncmp.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strnstr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strrchr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_strtrim.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_substr.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_tolower.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/ft_toupper.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/Libft/get_next_line.c">
-			<Option target="so_long"/>
-		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/checkerror.c">
-			<Option target="so_long"/>
-		</Unit>
 		<Unit filename="/Users/galfyn/my_projects/so_long/error.c">
 			<Option target="so_long"/>
 		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/get_image.c">
+		<Unit filename="/Users/galfyn/my_projects/so_long/ft_get_image.c">
 			<Option target="so_long"/>
 		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/hand_map.c">
+		<Unit filename="/Users/galfyn/my_projects/so_long/ft_hand_map.c">
 			<Option target="so_long"/>
 		</Unit>
-		<Unit filename="/Users/galfyn/my_projects/so_long/read_map.c">
+		<Unit filename="/Users/galfyn/my_projects/so_long/ft_move.c">
+			<Option target="so_long"/>
+		</Unit>
+		<Unit filename="/Users/galfyn/my_projects/so_long/ft_read_map.c">
 			<Option target="so_long"/>
 		</Unit>
 		<Unit filename="/Users/galfyn/my_projects/so_long/so_long.c">

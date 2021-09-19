@@ -1,47 +1,43 @@
 #include "so_long.h"
 
-void map_init(t_map *map)
+static void ft_struct_init(t_game *game)
 {
-	map->width = 0;
-	map->height = 0;
-	map->coin = 0;
-	map->out.nb = 0;
-	map->player.nb = 0;
-	map->out.x = 0;
-	map->out.y = 0;
-	map->player.x = 0;
-	map->player.y = 0;
+	game->height = 0;
+	game->width = 0;
+	game->coin = 0;
+	game->out = 0;
+	game->p_x = 0;
+	game->p_y = 0;
+	game->p_nb = 0;
+
+}
+int key_hook(int keycode, t_game *game)
+{
+	if (keycode == 53)
+		exit(0);
+	if (keycode == 13)
+		ft_move_w(game);
+	if (keycode == 0)
+		ft_move_a(game);
+	if (keycode == 1)
+		ft_move_s(game);
+	if (keycode == 2)
+		ft_move_d(game);
+	return (1);
 }
 
-//int key_hook(int keycode)
-//{
-//	if(keycode == 53)
-//		exit(1);
-//	if(keycode == 1)
-//		printf("oendor chushka");
-//	return (1);
-//}
-void game_init(t_map *map, t_vars *vars, t_image *image)
+int	main(int argc, char **argv)
 {
-
-	vars->mlx = mlx_init();
-	vars->win = mlx_new_window(vars->mlx, ((map->height + 1) * 32),
-								(map->width * 32),"so_long");
-	get_image(map, image, vars);
-
-//	mlx_key_hook(vars->win, key_hook, &vars);
-	mlx_loop(vars->mlx);
-}
+	t_game	game;
 
 
-int main(int argc, char **argv)
-{
-	t_map	map;
-	t_vars	vars;
-	t_image image;
-
-	map_init(&map);
-	hand_map(argc, argv, &map);
-	game_init(&map, &vars, &image);
-
+	ft_struct_init(&game);
+	ft_hand_map(argc, argv, &game);
+	game.vars.mlx = mlx_init();
+	game.vars.win = mlx_new_window(game.vars.mlx, ((game.width) * 32),
+							   ((game.height) * 32),"so_long");
+	ft_get_image(&game);
+	mlx_key_hook(game.vars.win, key_hook, &game);
+	mlx_loop_hook(game.vars.mlx, ft_get_image, &game);
+	mlx_loop(game.vars.mlx);
 }

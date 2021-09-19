@@ -1,12 +1,12 @@
 NAME = so_long
 
-SRC = so_long.c	hand_map.c	error.c read_map.c get_image.c
+SRC = so_long.c	ft_hand_map.c	error.c	ft_read_map.c	ft_get_image.c	ft_move.c
 
 OBJ = $(patsubst %.c,%.o,$(SRC))
 
-CFLAGS = -Wall -Wextra -Werror
+#CFLAGS = -Wall -Wextra -Werror
 
-all : libft  $(NAME)
+all : mlx libft $(NAME)
 
 $(NAME) : $(OBJ)
 	 gcc -Llibft -lft -Lmlx -lmlx -framework OpenGL -framework AppKit $(OBJ) -o $@
@@ -16,6 +16,10 @@ $(NAME) : $(OBJ)
 
 libft :
 	make -C Libft/
+
+mlx :
+	make -C mlx/
+
 clean :
 	rm -f $(OBJ) $(OBJ_B)
 	make clean -C Libft/
@@ -27,4 +31,4 @@ fclean : clean
 	rm -f mlx/libmlx.a
 re : fclean all
 
-.PHONY : clean fclean libft re all
+.PHONY : clean fclean libft re all mlx
