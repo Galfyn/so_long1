@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_move.c                                          :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: galfyn <marvin@42.fr>                      +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/09/19 06:49:03 by galfyn            #+#    #+#             */
+/*   Updated: 2021/09/19 06:49:05 by galfyn           ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "so_long.h"
 
 void	ft_move_w(t_game *game)
@@ -31,9 +43,9 @@ void	ft_move_a(t_game *game)
 			game->map[game->p_y][game->p_x - 1] = 'P';
 			game->p_x--;
 		}
-
 	}
 }
+
 void	ft_move_s(t_game *game)
 {
 	if (game->map[game->p_y + 1][game->p_x] != '1')
@@ -50,6 +62,7 @@ void	ft_move_s(t_game *game)
 		}
 	}
 }
+
 void	ft_move_d(t_game *game)
 {
 	if (game->map[game->p_y][game->p_x + 1] != '1' ||
@@ -65,6 +78,5 @@ void	ft_move_d(t_game *game)
 			game->map[game->p_y][game->p_x + 1] = 'P';
 			game->p_x++;
 		}
-
 	}
 }

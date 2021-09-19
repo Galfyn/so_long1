@@ -1,23 +1,37 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_read_map.c                                      :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: galfyn <marvin@42.fr>                      +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/09/19 06:49:17 by galfyn            #+#    #+#             */
+/*   Updated: 2021/09/19 06:49:18 by galfyn           ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include "so_long.h"
 
-static void ft_count_size(char **argv, t_game *game)
+static void	ft_count_size(char **argv, t_game *game)
 {
 	int		fd;
 	char	*line;
 
 	fd = open(argv[1], O_RDONLY);
-
 	while (get_next_line(fd, &line))
 	{
 		game->height++;
 		game->width = (int) ft_strlen(line);
+		free(line);
 	}
+	free(line);
 	close(fd);
 }
-static void ft_valid_map(t_game *game)
+
+static void	ft_valid_map(t_game *game)
 {
-	int x;
-	int y;
+	int	x;
+	int	y;
 
 	y = -1;
 	x = 0;
@@ -30,16 +44,15 @@ static void ft_valid_map(t_game *game)
 			error("The horizontal borders of the map are violated");
 	if (game->p_nb != 1 || game->out != 1 || game->coin == 0)
 		error("There must be 1 player, 1 exit, and at least 1 coin on the map");
-
 }
 
-static void ft_pars_map(t_game *game)
+static void	ft_pars_map(t_game *game)
 {
-	int x;
-	int y;
+	int	x;
+	int	y;
 
 	y = -1;
-	while(++y < game->height)
+	while (++y < game->height)
 	{
 		x = -1;
 		while (++x < game->width - 1)
@@ -52,18 +65,19 @@ static void ft_pars_map(t_game *game)
 			}
 			if (game->map[y][x] == 'E')
 				game->out++;
-			if(game->map[y][x] == 'C')
+			if (game->map[y][x] == 'C')
 				game->coin++;
 			if (!ft_strchr("01CPE", game->map[y][x]))
 				error("Extra symbols in the map");
 		}
 	}
 }
+
 void	ft_read_map(char **argv, t_game *game)
 {
-	int 	i;
+	int		i;
 	int		fd;
-	char 	*line;
+	char	*line;
 
 	i = 0;
 	ft_count_size(argv, game);
@@ -79,7 +93,6 @@ void	ft_read_map(char **argv, t_game *game)
 		i++;
 	}
 	game->map[i] = line;
-
 	free(line);
 	close(fd);
 	ft_pars_map(game);
